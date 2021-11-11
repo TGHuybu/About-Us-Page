@@ -1,1 +1,5 @@
-$('.carousel').carousel('pause')
+$('.carousel').carousel('pause');
+
+function testFunction() {
+    alert("You clicked!");
+}
